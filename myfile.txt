@@ -1,8 +1,4 @@
 hi hello
 hi
-
-2
-
-i made respansive too!
-
 respansive
+i made respansive too!
